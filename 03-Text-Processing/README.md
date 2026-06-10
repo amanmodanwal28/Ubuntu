@@ -6,14 +6,17 @@ Learn commands used to view, search, filter, and manipulate text.
 
 - awk
 - cat
+- column
 - cut
 - frep
 - head
 - less
 - more
+- paste
 - sed
 - sort
 - tac
+- tee
 - tail
 - tr
 - uniq
