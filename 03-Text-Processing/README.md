@@ -4,20 +4,21 @@ Learn commands used to view, search, filter, and manipulate text.
 
 ## Commands Covered
 
-- cat
-- tac
-- more
-- less
-- head
-- tail
-- grep
 - awk
+- cat
+- cut
+- frep
+- head
+- less
+- more
 - sed
 - sort
-- uniq
-- cut
+- tac
+- tail
 - tr
+- uniq
 - wc
+- zcat
 
 ## Objectives
 
