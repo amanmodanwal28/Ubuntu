@@ -4,20 +4,23 @@ This section contains Linux commands used regularly by system administrators, de
 
 ## Commands Covered
 
-* ls
-* cd
-* pwd
+- cd
+- chmod
+- chown
+- clear
+- cp
+- echo
+- find
+- history
+- ls
+- mkdir
+- mv
 - pwd
-* mkdir
-* rmdir
-* cp
-* mv
-* rm
-* touch
-* clear
-* history
-* man
-* echo
+- rm
+- rmdir
+- tar
+- touch
+
 
 ## Objectives
 
