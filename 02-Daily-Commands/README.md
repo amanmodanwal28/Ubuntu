@@ -7,6 +7,7 @@ This section contains Linux commands used regularly by system administrators, de
 * ls
 * cd
 * pwd
+- pwd
 * mkdir
 * rmdir
 * cp
