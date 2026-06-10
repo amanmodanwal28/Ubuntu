@@ -4,7 +4,7 @@
 
 The `pwd` command stands for **Print Working Directory**.
 
-It displays the absolute path of the current directory you are working in. It helps you identify your exact location in the Linux filesystem at any moment.
+It displays the absolute path of the current directory you are working in.It helps you identify your exact location in the Linux filesystem at any moment.
 
 This is one of the most basic and commonly used Linux commands, especially when navigating through directories.
 
